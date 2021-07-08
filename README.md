@@ -1,2 +1,3 @@
 # Improving-Deep-Neural-Networks
-Programming Assignments completed under 2nd Course of Deep Learning Specialisation(Coursera)
+
+This Repository contains the Programming assignments completed under first course of Deep Learning specialisation(Coursera)
